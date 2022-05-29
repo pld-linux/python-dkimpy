@@ -48,8 +48,6 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Python module that implements DKIM (DomainKeys Identified Mail) email
 signing and verification (RFC6376).
 
-%description -l pl.UTF-8
-
 %package -n python3-%{module}
 Summary:	DKIM, ARC, and TLSRPT email signing and verification
 Group:		Libraries/Python
