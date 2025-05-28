@@ -9,7 +9,7 @@ Summary:	DKIM, ARC, and TLSRPT email signing and verification
 Summary(pl.UTF-8):	Podpisywanie i weryfikacja e-maili DKIM, ARC oraz TLSRPT
 Name:		python-%{module}
 Version:	1.1.6
-Release:	2
+Release:	1
 License:	BSD-like
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/d/dkimpy/%{module}-%{version}.tar.gz
